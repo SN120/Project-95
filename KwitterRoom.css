@@ -1,0 +1,20 @@
+body{
+    background-color: #07ddf5;
+    text-align: center;
+    color: white;
+}
+#headingH1{
+    font-family: 'Yeon Sung';
+}
+#button{
+    text-align: right;
+    padding-right: 500px;
+}
+#image{
+    height: 51px;
+    width: 51px;
+}
+.room_name{
+    background-color: lightblue;
+    font-size: 50px;
+}

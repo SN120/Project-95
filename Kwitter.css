@@ -1,0 +1,21 @@
+body{
+    background-color: skyblue;
+    color: black;
+    text-align: center;
+}
+#everything{
+    background-color: lightblue;
+    width: 50%;
+    border-radius: 50px;
+    float: none
+}
+#username_input{
+    width: 80%;
+}
+#logo{
+    width: 10%;
+    border-radius: 100px;
+}
+#headingH1{
+    font-family: 'Yeon Sung';
+}
